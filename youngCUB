@@ -1,0 +1,5 @@
+print "hello i am siri 2.0 your new and improved home advisour. what is you name?"
+name = gets
+puts " hello #{name} nice to finally meet you"
+
+
